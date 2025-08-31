@@ -1,6 +1,6 @@
-# Calculadora com JavaScript
+# Projetos com JavaScript
 
-Repositório com o projeto de uma **calculadora** simples, focado em **JavaScript**. O **HTML e o CSS já estão prontos**, e o objetivo é implementar as funcionalidades da calculadora usando **JavaScript**.
+Repositório com **pequenos projetos** focados em **JavaScript**. O **HTML e o CSS já estão prontos**, e o objetivo é implementar as funcionalidades e interações usando **JavaScript**.
 
 ## Como Rodar
 
@@ -16,7 +16,15 @@ Repositório com o projeto de uma **calculadora** simples, focado em **JavaScrip
 
 3. Abra o arquivo `index.html` no navegador.
 
+## Projetos
+
+- Calculadora com JavaScript
+- To-do List com JavaScript
+- Jogo de Adivinhação em JavaScript
+- Formulários interativos com validação
+
 ## Foco
 
-- Implementar a funcionalidade de uma **calculadora** em **JavaScript**.
+- Implementar funcionalidades em **JavaScript**.
 - Manipular eventos e o DOM para criar interatividade.
+
