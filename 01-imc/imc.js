@@ -1,9 +1,10 @@
 import verificarPesoIdeal from './condicionais.js';
+import valicao from './valicao.js';
 
 const botao = document.getElementById("calcular");
 
-//Gerando mensagem no campo nome para o usuário
-const botaoNome = document.getElementById("nome");
+//Gerando mensagem no campo de entrada para o usuário
+//const botaoNome = document.getElementById("nome");
 nome.setAttribute("placeholder", "Digite seu nome");
 altura.setAttribute("placeholder", "Digite seu altura");
 peso.setAttribute("placeholder", "Digite seu peso");
