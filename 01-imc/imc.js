@@ -4,7 +4,7 @@ import valicao from './valicao.js';
 const botao = document.getElementById("calcular");
 
 //Gerando mensagem no campo de entrada para o usuário
-//const botaoNome = document.getElementById("nome");
+//const botaoNome = document.getElementById("nome"); (Talvez não precise desse campo)
 nome.setAttribute("placeholder", "Digite seu nome");
 altura.setAttribute("placeholder", "Digite seu altura");
 peso.setAttribute("placeholder", "Digite seu peso");
