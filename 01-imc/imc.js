@@ -4,7 +4,9 @@ const botao = document.getElementById("calcular");
 
 //Gerando mensagem no campo nome para o usuário
 const botaoNome = document.getElementById("nome");
-botaoNome.setAttribute('')
+nome.setAttribute("placeholder", "Digite seu nome");
+altura.setAttribute("placeholder", "Digite seu altura");
+peso.setAttribute("placeholder", "Digite seu peso");
 
 botao.addEventListener("click", function() {
     const nomeDigitado = document.getElementById("nome").value;
